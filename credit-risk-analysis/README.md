@@ -8,4 +8,4 @@ The goal is to explore key risk factors and build a simple, interpretable predic
 The dataset contains customer-level information such as income, age, employment status, residence status, 
 and credit history, along with a binary target variable indicating credit default.
 
-## Project Structure
+
