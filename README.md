@@ -13,12 +13,13 @@ Projetos incluíam:
 Projetos de análise em vários domínios
 Tecnologias utilizadas:
 
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Caderno Jupyter
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Scikit-learn,
+Caderno Jupyter.
+
 Contribuições: Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, por favor, abra uma edição ou envie um pull request.
 
 Licença: Este repositório é licenciado sob a licença MIT. Você é livre para usar, modificar e distribuir o código.
